@@ -16,7 +16,7 @@ Add an `.npmrc` file to the root of your project with the following:
 Then run:
 
 ```
-npm install quibbble/boardgame
+npm install
 ```
 
 ## Start Dev Testing Env
